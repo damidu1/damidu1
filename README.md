@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **php,htm,java etc**
 
-- 📫 How to reach me **contact@damidu.xyz**
+- 📫 You can reach me **contact@damidu.xyz**
 
 - ⚡ Fun fact **I think I am funny**
 
