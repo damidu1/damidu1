@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidu&label=Profile%20views&color=0e75b6&style=flat" alt="damidu" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/damidu1/damidu1/blob/main/giphy.gif">
 
-- I am a 💼 Staff of Enforcers Sri Lanka (Enforcers.lk)
+- I am in 💼 Staff of Enforcers Sri Lanka (Enforcers.lk)
 
 - 🔭 I’m currently working on [Enfox Network Minecraft Server Admin And Developer](enfox.net)
 
