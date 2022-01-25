@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi&psig=AOvVaw12Df2kwY8WMijpxX9Z6ir6&ust=1643161110086000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCxp6Xiy_UCFQAAAAAdAAAAABA9)](https://damidu.xyz)
+[![MasterHead](https://github.com/damidu1/damidu1/blob/main/Signature.png)](https://damidu.xyz)
 <h1 align="center">Hi 👋, I'm Damidu Sandipa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidu&label=Profile%20views&color=0e75b6&style=flat" alt="damidu" /> </p>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-engineer&psig=AOvVaw1WdMxJG3vg5S-f-uwchwUj&ust=1643160601470000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj0qLLgy_UCFQAAAAAdAAAAABAi">
+<img align="right" alt="Coding" width="400" src="https://github.com/damidu1/damidu1/blob/main/giphy.gif">
 
 - I am a 💼 Staff of Enforcers Sri Lanka (Enforcers.lk)
 
