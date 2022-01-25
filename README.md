@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/damidu1/damidu1/blob/main/Signature.png)](https://damidu.xyz)
+[![MasterHead](https://github.com/damidu1/damidu1/blob/main/My%20Signature.jpg)](https://damidu.xyz)
 <h1 align="center">Hi 👋, I'm Damidu Sandipa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damidu&label=Profile%20views&color=0e75b6&style=flat" alt="damidu" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/damidu1/damidu1/blob/main/giphy.gif">
